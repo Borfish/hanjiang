@@ -1,7 +1,7 @@
-第一天报告
+第一周学习报告
 ===
 ### GitHub的环境配置与使用
-关于GitHub的环境配置及学习，我用csdn记录了：{记录文章}（https://blog.csdn.net/prehix/article/details/125759364?spm=1001.2014.3001.5501）
+关于GitHub的环境配置及学习，我用csdn记录了：https://blog.csdn.net/prehix/article/details/125759364?spm=1001.2014.3001.5501
 
 其中GitHub中文档编写格式参考：http://t.csdn.cn/ht9QB
 ### 问题回答
@@ -19,3 +19,5 @@
 定义A为a×n,p为n×m,当A×P时，会得到一个a×m的矩阵，且A[a][n]×P[n][m]=C[a][m]
 
 `前提条件`：第一个矩阵的列要等与第二个矩阵的行
+
+lunix命令行学习：https://blog.csdn.net/prehix/article/details/125776965?spm=1001.2014.3001.5501
